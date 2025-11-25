@@ -12,10 +12,10 @@ Trích xuất đúng – đủ – rõ ràng các thông tin khi người dùng 
 Doanh nghiệp / giới thiệu / tầm nhìn – sứ mệnh
 
 
-Thiết kế website, màu sắc, phong cách
+Thiết kế website, màu sắc, phong cách thiết kế, giờ hoạt động, email,...
 
 
-Menu, sản phẩm – dịch vụ
+Menu web, sản phẩm dịch vụ, trang web cũ, số điện thoại, địa chỉ,...
 
 
 Liên kết mạng xã hội
@@ -90,10 +90,12 @@ Link website tham chiếu: Mẫu website thiết kế đơn giản đẹp
 Phần giữ nguyên / thay đổi: Đổi màu, logo, hình ảnh, nội dung, bố cục Web tự tinh chỉnh
 
 
-Logo & bộ nhận diện: Logo (xem theo link này: https://drive.google.com/drive/folders/1GAjsCYkAb5vpsKjIrSEeAIIfkKpFId10), chưa có banner, Web hỗ trợ thiết kế thêm
+Logo & bộ nhận diện: Click vào link này: https://drive.google.com/drive/folders/1GAjsCYkAb5vpsKjIrSEeAIIfkKpFId10), chưa có banner, Web hỗ trợ thiết kế thêm
 
 
 Màu chủ đạo: Xanh lá cây, đỏ. Xem chi tiết ở Website cũ: https://giotraicaydep.vn/
+
+Website cũ: https://giotraicaydep.vn/
 
 
 Phong cách thiết kế: sang trọng, sản phẩm rõ nét hấp dẫn...
@@ -129,7 +131,7 @@ Email: giotraicaydep@gmail.com
 Giờ hoạt động: 7h00 - 22h00
 
 
-Menu:
+Menu web:
  🏠 Trang chủ
 
 
@@ -202,7 +204,7 @@ Facebook group: https://www.facebook.com/groups/847631497819217
 Discord: https://discord.com/channels/@me
 
 
-D. SẢN PHẨM / DỊCH VỤ
+D. SẢN PHẨM 
 Danh sách sản phẩm/dịch vụ:
  1.1 Trái cây tươi
  1.2 Giỏ Quà Trái Cây
@@ -212,6 +214,7 @@ Danh sách sản phẩm/dịch vụ:
  1.6 Combo Quà Tặng Trái Cây
  1.7 Nước Ép Trái Cây Tươi
  1.8 Quà Tặng Tết
+
 F. FAQ – CÂU HỎI THƯỜNG GẶP
  (Danh sách 10 câu hỏi & trả lời gợi ý tự nhiên)
  1.
